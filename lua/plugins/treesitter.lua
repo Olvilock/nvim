@@ -5,6 +5,8 @@ return {
     ensure_installed = {
       "html",
       "css",
+      "latex",
+      "typst",
       "json",
       "regex",
       "vim",
